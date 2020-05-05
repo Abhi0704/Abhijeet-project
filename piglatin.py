@@ -5,4 +5,4 @@ def piglatin(word):
         return word[1:] + word[0] + 'ay'
 
 print(piglatin('abhijeet'))
-print(piglatin('cassy'))
+print(piglatin('hitesh'))y
